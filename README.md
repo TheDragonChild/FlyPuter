@@ -5,7 +5,7 @@ Start by running "pip install -r requirements.txt" in your terminal. Next create
 
 The project is built to use Eons Systems repo at [Eon Systems Data Repo](https://github.com/eonsystemspbc/fly-brain) but you can use what you want
 
-#Credits & Citations
+## Credits & Citations
 
 ### Original Data
 This project utilizes the **FlyWire Connectome**, a massive collaboration effort by the **FlyWire Consortium** and the **Princeton FlyWire Lab**.
