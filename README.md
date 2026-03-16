@@ -24,3 +24,6 @@ This project utilizes the **FlyWire Connectome**, a massive collaboration effort
 ### Software
 * **Brian2**: For the spiking neural network simulation
 * **MuJoCo**: For the physics and sensorimotor environment
+
+### Name
+Rowan Brown(My partner) for the name Flyputer
