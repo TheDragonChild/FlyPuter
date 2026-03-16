@@ -1,7 +1,7 @@
 # FlyPuter
 A lightweight sensorimotor bridge connecting the FlyWire connectome used by Eon Systems to MuJoCo physics using Brian2.
 
-Start by running "pip install -r requirements.txt" in your terminal. Next create a conda environment and activate it before running it through Jupyter Notebook
+Start by creating a conda environment and activating it in Python 3.10. Next, run "pip install -r requirements.txt" in your conda environment, before starting a Jupyter Notebook, place the .ipynb file in the notebook and run it
 
 The project is built to use Eons Systems repo at [Eon Systems Data Repo](https://github.com/eonsystemspbc/fly-brain) but you can use what you want
 
