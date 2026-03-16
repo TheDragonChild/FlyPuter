@@ -5,6 +5,15 @@ Start by running "pip install -r requirements.txt" in your terminal. Next create
 
 The project is built to use Eons Systems repo at [Eon Systems Data Repo](https://github.com/eonsystemspbc/fly-brain) but you can use what you want
 
+## Probably the roadmap(probably)
+Making into several modular .py files so people can integrate it (In progress)
+
+Fixing the render call so that it doesn't strangle the performance (In progress)
+
+Making the bridge able to work with MuJoCo or with Unity (Progress kind of started but slow going)
+
+*If you're one of the so far 36 people who've cloned this and you've managed to fix the renderer, feel free to send out a pull reqeust, I'm not used to python as a Java/JS dev, and it's fighting me more than it should*
+
 ## Credits & Citations
 
 ### Original Data
