@@ -12,7 +12,7 @@ Fixing the render call so that it doesn't strangle the performance (In progress)
 
 Making the bridge able to work with MuJoCo or with Unity (Progress kind of started but slow going)
 
-*If you're one of the so far 36 people who've cloned this and you've managed to fix the renderer, feel free to send out a pull reqeust, I'm not used to python as a Java/JS dev, and it's fighting me more than it should*
+*If you're one of the so far 36 people who've cloned this and you've managed to fix the renderer, feel free to send out a pull request, I'm not used to python as a Java/JS dev, and it's fighting me more than it should*
 
 ## Credits & Citations
 
